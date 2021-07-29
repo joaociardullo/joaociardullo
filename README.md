@@ -1,6 +1,6 @@
 👋
 
-## Oiii! Eu sou Joao Vitor Ciardullo 
+## Oiii! Eu sou João Vitor Ciardullo 
  <div>
   <a href="https://github.com/joaociardullo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaociardullo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
