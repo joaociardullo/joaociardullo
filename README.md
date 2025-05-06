@@ -1,5 +1,7 @@
 👋
 
+Engenheiro de Software. Desenvolvedor Java Senior dinâmico e orientado a resultados com mais de 6 anos de experiência no desenvolvimento de soluções de software escaláveis, de alta qualidade e alto desempenho. Histórico comprovado de alavancar um profundo entendimento de Java e frameworks modernos para impulsionar o desenvolvimento de software e aplicativos inovadores. Hábil em trabalhar em ambientes de ritmo acelerado, liderando projetos do conceito à entrega e aprimorando o desempenho do sistema. Apaixonado por adotar tecnologias emergentes para resolver desafios empresariais complexos e entregar soluções valiosas.
+
 ## Oiii! Eu sou João Vitor Ciardullo 
  <div>
   <a href="https://github.com/joaociardullo">
